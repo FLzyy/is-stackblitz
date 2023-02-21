@@ -1,7 +1,7 @@
 {
-  "name": "npm-package",
+  "name": "is-stackblitz",
   "version": "1.0.0",
-  "description": "npm-package description",
+  "description": "Detect if your code is currently running on Stackblitz",
   "main": "index.js",
   "scripts": {
     "compile": "swc src/index.ts -d dist --config-file .swcrc",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FLzyy/npm-package.git"
+    "url": "git+https://github.com/FLzyy/is-stackblitz.git"
   },
   "keywords": [
     "key",
@@ -28,9 +28,9 @@
   "author": "FLzyy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FLzyy/npm-package/issues"
+    "url": "https://github.com/FLzyy/is-stackblitz/issues"
   },
-  "homepage": "https://github.com/FLzyy/npm-package#readme",
+  "homepage": "https://github.com/FLzyy/is-stackblitz#readme",
   "devDependencies": {
     "@swc/cli": "^0.1.62",
     "@swc/core": "^1.3.35",
