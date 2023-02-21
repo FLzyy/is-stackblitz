@@ -19,11 +19,11 @@
     "url": "git+https://github.com/FLzyy/is-stackblitz.git"
   },
   "keywords": [
-    "key",
-    "w",
-    "o",
-    "r",
-    "d"
+    "stackblitz",
+    "webcontainer",
+    "env",
+    "is",
+    "detect"
   ],
   "author": "FLzyy",
   "license": "MIT",
